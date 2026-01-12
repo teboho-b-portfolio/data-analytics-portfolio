@@ -4,7 +4,7 @@ This repository contains a collection of data analytics projects focused on tran
 
 The projects demonstrate an end-to-end analytics workflow, including data exploration, cleaning, analysis, visualisation, and insight communication. Each project is designed to answer real-world business or analytical questions and present results in a clear, decision-oriented manner.
 
-### What You'll find Here
+## What You'll find Here
 - Exploratory data analysis and Structured Investigations
 - Insight-driven reports and dashboards
 - Projects centered on business questions and performance metrics
@@ -20,21 +20,21 @@ The projects demonstrate an end-to-end analytics workflow, including data explor
 
 This project focuses on cleaning a real-world layoffs dataset using SQL. It is my first data project and was created to practice essential data cleaning techniques before analysis.
 
-## Dataset:
+### Dataset:
 Layoffs 2022 – Kaggle
 https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-## Objective
+### Objective
 
 - Clean and prepare raw data for analysis
 
 - Practice SQL data cleaning workflows
 
-## Tools
+### Tools
 
 SQL (MySQL)
 
-## Cleaning Steps
+### Cleaning Steps
 
 - Created staging tables to preserve raw data
 
@@ -46,7 +46,7 @@ SQL (MySQL)
 
 - Removed rows with no usable layoff data
 
-## Outcome
+### Outcome
 
 A clean, standardised dataset ready for exploratory data analysis (EDA).
 
@@ -57,21 +57,21 @@ A clean, standardised dataset ready for exploratory data analysis (EDA).
 
 This project focuses on exploring and analysing a cleaned layoffs dataset to uncover trends, patterns, and insights using SQL.
 
-## Dataset:
+### Dataset:
 Layoffs 2022 – Kaggle
 https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-## Objective
+### Objective
 
 Explore the data to identify trends and patterns
 
 Practice analytical SQL queries using real-world data
 
-## Tools
+### Tools
 
 SQL (MySQL)
 
-## Key Analysis Performed
+### Key Analysis Performed
 
 - Largest single-day layoffs
 
@@ -85,6 +85,6 @@ SQL (MySQL)
 
 - Monthly and rolling total layoffs over time
 
-## Outcome
+### Outcome
 
 Gained insights into global layoff trends, including which companies, industries, and years were most impacted.
