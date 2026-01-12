@@ -44,7 +44,7 @@ SQL (MySQL)
 
 - Handled null values appropriately
 
-- Removed rows with no usable layoff data
+- Removed rows and columns with no usable layoff data
 
 ### Outcome
 
