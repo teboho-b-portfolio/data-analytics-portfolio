@@ -12,6 +12,7 @@ The projects demonstrate an end-to-end analytics workflow, including data explor
 
   ## Purpose
   This repository serves as a portfolio to showcase practical analytics skills, problem-soving ability, and the effective communication of data-driven insights.
+  
 
 ## Project 1: SQL Data Cleaning
 
@@ -23,25 +24,25 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 ## Objective
 
-Clean and prepare raw data for analysis
+- Clean and prepare raw data for analysis
 
-Practice SQL data cleaning workflows
+- Practice SQL data cleaning workflows
 
-🛠 Tools
+ - Tools
 
 SQL (MySQL)
 
 ## Cleaning Steps
 
-Created staging tables to preserve raw data
+- Created staging tables to preserve raw data
 
-Removed duplicate records using ROW_NUMBER()
+- Removed duplicate records using ROW_NUMBER()
 
-Standardised industry, country, and date formats
+- Standardised industry, country, and date formats
 
-Handled null values appropriately
+- Handled null values appropriately
 
-Removed rows with no usable layoff data
+- Removed rows with no usable layoff data
 
 ## Outcome
 
