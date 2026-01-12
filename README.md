@@ -12,6 +12,9 @@ The projects demonstrate an end-to-end analytics workflow, including data explor
 
   ## Purpose
   This repository serves as a portfolio to showcase practical analytics skills, problem-soving ability, and the effective communication of data-driven insights.
+
+
+  #----------------------------------------------------------------------------------------------------------------------------------------
   
 
 ## Portfolio Project 1: SQL Data Cleaning
@@ -47,6 +50,10 @@ SQL (MySQL)
 ## Outcome
 
 A clean, standardised dataset ready for exploratory data analysis (EDA).
+
+
+#----------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Portfolio Project 2: SQL Exploratory Data Analysis (EDA)
 
