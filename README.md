@@ -131,3 +131,14 @@ Microsoft Excel
 
 #### This project is part of my data analyst portfolio and highlights practical Excel analytics and visualisation skills.
 
+<img width="1237" height="487" alt="Portfolio Project 3 - Dashboard Screenshot(Excel)" src="https://github.com/user-attachments/assets/ea35a8f1-62fd-485d-bd6d-f9b77995b7b8" />
+
+
+
+
+
+
+
+
+
+
